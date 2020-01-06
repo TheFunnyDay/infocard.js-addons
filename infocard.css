@@ -10,7 +10,7 @@
 
 
 body {background-color: #1b1b1b;}
-a {color: #d40c00;}
+a {color: blue;}
 .webapp{margin: auto;user-select: none;-webkit-user-select: none;max-width: 1000px;}
 .center {margin: auto; max-width: 1000px;}
 .bglogo {
